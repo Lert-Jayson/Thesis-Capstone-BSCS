@@ -1,0 +1,1 @@
+{"self.dialogue_complete": ["start", "test", "Guard", "Chief", "Guard1", "second encounter", "last encounter", "Guard2", "Chicken1", "Chicken1_1", "Rabbit", "Rabbit1", "Chicken", "1Chicken", "Chief1", "Chief2", "cave_tower", "brazier"]}
